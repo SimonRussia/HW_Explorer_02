@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ovan-iu8/HW_Explorer_02.svg?branch=master)](https://travis-ci.org/ovan-iu8/HW_Explorer_02) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE)
+[![Build Status](https://travis-ci.org/SimonRussia/HW_Explorer_02.svg?branch=master)](https://travis-ci.org/SimonRussia/HW_Explorer_02) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE)
 ## Проект Explorer (II этап)
 
 ### Соответствие порядкового номера и комбинации:
